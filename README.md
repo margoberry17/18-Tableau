@@ -14,6 +14,8 @@ In 2023, bike use varies from month to month, with the lowest number of rides (5
 
 2. What are the top 10 stations in the city for starting and ending a journey?
 
+The top 10 stations where people start their rides is nearly the same as the top 10 stations where people end thier rides. This makes sense since I'd imagine most people return the bikes at their original destination. Grove St.(~50K), Hoboken Terminal (43K), and S. Waterfront Walkway (31K) were the top three most popular stations.
+
 ![Dash2](https://github.com/margoberry17/18-Tableau/assets/136475202/091efaf6-8129-47fa-b260-a03d70764c83)
 
 
