@@ -17,7 +17,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 3. What are the most popular stations in the city for starting and ending a journey visually shown on a map?
 
-![Dash3](https://github.com/margoberry17/18-Tableau/assets/136475202/a7a3c1a5-8252-470d-8523-9d7d005ba2a3)
+![Dash3](https://github.com/margoberry17/18-Tableau/assets/136475202/e879094f-9fb8-47a7-94cf-31bdcb325a45)
 
 
 4. What are the peak hours when bikes are used during the summer months and winter months?
@@ -27,8 +27,3 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 5. What are the peak start times by weekday?
 
 ![Dash5](https://github.com/margoberry17/18-Tableau/assets/136475202/74f8bca2-3a26-4cbe-9971-a59ac0c47a92)
-
-
-
-Still need:
-A dynamic map that shows how each station's popularity changes over time (by month and year) with zip code data overlaid on top.
