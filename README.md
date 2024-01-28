@@ -28,6 +28,8 @@ In the map, the locations are sorted in order of popularity from highest to lowe
 
 4. What are the peak hours when bikes are used during the summer months and winter months?
 
+In 2023, the Summer Peak Hours show a slight spike from 8-9 am with 19K rides and a larger spike from the hours of 5-7 pm with ~30K rides per hour. Similarly, for the Winter Peak Hours there is a slight spike from 8-9 am with 11.8K rides and larger spike from 5-7 pm with 15K rides per hour. This makes sense since these are commuting hours for work. This also shows how winter rides are about half the amount compared to the number of summer rides.
+
 ![Dash4](https://github.com/margoberry17/18-Tableau/assets/136475202/602f9744-778f-40e3-ba89-750c82bd7e81)
 
 5. What are the peak start times by weekday?
