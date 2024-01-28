@@ -21,6 +21,8 @@ The top 10 stations where people start their rides is nearly the same as the top
 
 3. What are the most popular stations in the city for starting and ending a journey visually shown on a map?
 
+In the map, the locations are sorted in order of popularity from highest to lowest and can also be seen by the size of their circle. You can toggle to see just one station at a time.
+
 ![Dash3](https://github.com/margoberry17/18-Tableau/assets/136475202/e879094f-9fb8-47a7-94cf-31bdcb325a45)
 
 
