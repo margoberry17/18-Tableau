@@ -3,7 +3,10 @@
 As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. Generate regular reports for city officials looking to publicize and improve the city program.
 
 # Data
-Citi Bike Data: https://www.citibikenyc.com/system-data
+Monthly CSV files (2023) Citi Bike Data: https://www.citibikenyc.com/system-data
+
+# Tableau
+https://public.tableau.com/views/CitiBikeAnalysis2023/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Dashboards
 1. How many trips have been recorded in total during the months of 2023 for members and non-members?
