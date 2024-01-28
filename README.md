@@ -6,6 +6,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 # Dashboards
 1. How many trips have been recorded in total during the months of 2023 for members and non-members?
+   
 In 2023, bike use varies from month to month, with the lowest number of rides (51.2K) in February and the highest number of rides (112K) in August. For casual riders though, July was the month with the highest number of rides (33.2K). Summer (June, July, & August), has the highest number of rides compared to any other seson, where winter (December, January, & February) has the least amount of rides. This makes sense since people tend to be outside more in the summer time compared to staying in during the winter. Members make up 74% of the rides. 
 
 ![Dash1](https://github.com/margoberry17/18-Tableau/assets/136475202/b1c835ea-ec8d-4d45-9e0a-d9d01d2994e0)
